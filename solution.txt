@@ -1,0 +1,7 @@
+Houses will begat jobs, jobs will begat houses.
+125 3
+mert 8
+10 5 X86isEasy
+5 115
+3 6 5 4 2 1
+1

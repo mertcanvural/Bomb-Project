@@ -1,0 +1,8 @@
+set disassemble-next-line on
+b secret_phase
+commands
+where
+disas
+display/5i $pc
+end
+run solution.txt
